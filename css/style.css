@@ -1,0 +1,108 @@
+.nombre{
+	color: #000000;
+	font-size: 25px;
+}
+body{
+	font-size: 14px;
+
+}
+header{
+	background-color: #FFFFFF;
+	padding: 9px 0;
+border-color: #000000;
+}
+.contander{
+	background-color: #010101;
+}
+.card-body{
+	
+	border-radius: 8px;
+	
+}
+.card-group{
+background-color: #000000;
+}
+.card-text{
+  color: #000000;
+	text-align: center;
+}
+.card-title{
+	color:#0B0000;
+ text-align: center;
+}
+.col-sm-12{
+	background-color: #000000;
+	
+}
+h2{
+	color: #FFFFFF;
+}
+h4{
+	color: #FFFFFF;
+}
+h5{
+	color: #FFFFFF;
+}
+h3{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 20px;
+}
+.d-block{
+	margin-top:100px;
+	margin-bottom: 50px;
+}
+.button{
+	margin: 5px;
+	background-color: #fff;
+	border-radius: 8px;
+	padding: 9px 40px;
+	border-color:#000000;
+	border-style: solid;
+
+}
+.imagen{
+	background-color: #000000;
+	padding: 90px;
+	
+}
+.card-img-top{
+	margin-top: 50px;
+	width: 180px;
+	margin-left: 45px;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+.butto{
+	margin: 5px;
+	background-color: #000000;
+	border-radius: 8px;
+	padding: 9px 40px;
+	border-color:#FFFFFF;
+	border-style: solid;
+	color: #FFFFFF;
+}
+.col-lg-4{
+	background-color: #000000;
+}
+/* ----------------------------------------------------------------------------------------------------------------*/
+
+.card-uno{
+	width: 270px;
+	margin-left: 110px;
+	margin-bottom: 200px;
+	margin-top: 200px;
+	background-color: #BBBBBB;
+	border-radius: 10px;
+}
+.imagen{
+	background-color: #000000;
+	padding: 100px;
+	}
+.contenedor{
+	background-color: #000000;
+}
